@@ -328,7 +328,7 @@ The project focused on analyzing resumes and matching candidate skills with job 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/allambharathsai/allambharathsai/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/allambharathsai/allambharathsai/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
